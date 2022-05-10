@@ -7,12 +7,19 @@ https://developer.cisco.com/learning/lab/learn-nso-the-easy-way/step/1
 
 ## Virutal Env
 The required dependencies:
+
 Python3
+
 python packages:
+
 pprint
+
 requests
+
 json
+
 urllib3
+
 
 to set up the same enviroment
 ```console
